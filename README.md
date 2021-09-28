@@ -5,11 +5,13 @@ One of our Projects for the MIT Full Stack Development program. The program gets
 ## Future Improvements
 In the future I hope to be able to modify the program such that it displays the bus on the actual map and not just the data being displayed in the console.
 
-How to run:
+## How to run
 1. Clone the repo
 2. Open the html file you see
 3. Right click and open "Inspect"
 4. Navigate to the Console tab and you should see the data pend every 15secs
+
+## License
 
 MIT License
 

@@ -1,6 +1,6 @@
 # RealTimeBusTracker
 ## Description
-One of our Projects for the MIT Full Stack Development program. The program gets the real time data of a bus from the MBTA Portal servers. You will see the result displayed in the console window.
+One of our Projects for the MIT Full Stack Development program. The program displays the bus stops from MIT to Harvard live on a map.
 
 ## Future Improvements
 In the future I hope to be able to modify the program such that it displays the bus on the actual map and not just the data being displayed in the console.

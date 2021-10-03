@@ -7,9 +7,9 @@ In the future I hope to be able to modify the program such that it displays the 
 
 ## How to run
 1. Clone the repo
-2. Open the html file you see
-3. Right click and open "Inspect"
-4. Navigate to the Console tab and you should see the data pend every 15secs
+2. Open the index.html file you see
+3. Click the button displayed
+4. You should see the stops happening live
 
 ## License
 
